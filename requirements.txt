@@ -8,5 +8,5 @@ MarkupSafe==2.1.5
 numpy==2.0.1
 requests==2.32.3
 shapely==2.0.5
-urllib3==2.2.2
+urllib3==2.8.0
 xyzservices==2024.6.0
